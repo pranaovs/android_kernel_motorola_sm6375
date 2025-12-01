@@ -2,7 +2,7 @@
 VERSION = 5
 PATCHLEVEL = 4
 SUBLEVEL = 300
-EXTRAVERSION = -pranaovs-ksu-rksuorg
+EXTRAVERSION = -pranaovs-ksu-rsuntk
 NAME = Kleptomaniac Octopus
 
 # indicate that change "Kbuild: Support nested composite objects" is
